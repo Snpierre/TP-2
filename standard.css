@@ -8,10 +8,6 @@ html {
     box-sizing: inherit;
 }
 
-img {
-aspect-ratio: attr(width) / attr(height);
-}
-
 body {
     margin: 0;
 }
